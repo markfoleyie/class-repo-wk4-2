@@ -2,4 +2,4 @@
 a program
 """
 print("Hello World")
-print(f"The filename is {__file__}. Name is {__name__}.")
+print(f"Filename is {__file__}. Name is {__name__}.\n Docstring is {__doc__}.")
